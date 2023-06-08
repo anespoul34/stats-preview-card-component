@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-html-css-only-CIVlo-18Pp)
+- Live Site URL: [link](https://stats-preview-card-component-mu.vercel.app/)
 
 ## My process
 
